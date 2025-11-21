@@ -1,0 +1,156 @@
+[17:30:19] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[17:30:19] [INIT] Loaded plugins:
+[17:30:19] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[17:30:19] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
+[17:30:19] [INIT] - net.mehvahdjukaar.sawmill.integration.KubeJsPlugin
+[17:30:19] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[17:30:19] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[17:30:19] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[17:30:19] [INIT] - com.sunekaer.sdrp.integration.kubejs.SDRPKubeJSIntegration
+[17:30:19] [INIT] - top.theillusivec4.champions.common.integration.kubejs.ChampionsKubeJSPlugin
+[17:30:19] [INIT] - org.mesdag.geckojs.GeckoJSPlugin
+[17:30:19] [INIT] - net.liopyu.entityjs.EntityJSPlugin
+[17:30:19] [INIT] - com.prunoideae.powerfuljs.forge.PowerfulJSPluginForge
+[17:30:19] [INIT] - com.almostreliable.morejs.Plugin
+[17:30:19] [INIT] - pie.ilikepiefoo.AdditionsPlugin
+[17:30:19] [INIT] - pie.ilikepiefoo.compat.jei.JEIKubeJSPlugin
+[17:30:19] [INIT] - com.oierbravo.createmechanicalextruder.compat.kubejs.KubeJSCreateMechanicalExtruderPlugin
+[17:30:19] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[17:30:19] [INIT] - com.almostreliable.ponderjs.KubePlugin
+[17:30:20] [INFO] customMachines/seedMaker.js#2: [SOCIETY] seedMaker.js loaded
+[17:30:20] [INFO] Loaded script startup_scripts:customMachines/seedMaker.js in 0.12 s
+[17:30:20] [INFO] customMachines/chargingRod.js#2: [SOCIETY] chargingRod.js loaded
+[17:30:20] [INFO] Loaded script startup_scripts:customMachines/chargingRod.js in 0.02 s
+[17:30:20] [INFO] customMachines/ancientGoddessStatue.js#2: [SOCIETY] seedMaker.js loaded
+[17:30:20] [INFO] Loaded script startup_scripts:customMachines/ancientGoddessStatue.js in 0.007 s
+[17:30:20] [INFO] customMachines/recyclingMachine.js#2: [SOCIETY] recyclingMachine.js loaded
+[17:30:20] [INFO] Loaded script startup_scripts:customMachines/recyclingMachine.js in 0.004 s
+[17:30:20] [INFO] customMachines/agingCask.js#2: [SOCIETY] agingCask.js loaded
+[17:30:20] [INFO] Loaded script startup_scripts:customMachines/agingCask.js in 0.028 s
+[17:30:20] [INFO] customMachines/preservesJar.js#2: [SOCIETY] preservesJar.js loaded
+[17:30:20] [INFO] Loaded script startup_scripts:customMachines/preservesJar.js in 0.031 s
+[17:30:20] [INFO] customMachines/mayonnaiseMachine.js#2: [SOCIETY] mayonnaiseMachine.js loaded
+[17:30:20] [INFO] Loaded script startup_scripts:customMachines/mayonnaiseMachine.js in 0.007 s
+[17:30:20] [INFO] customMachines/crystalarium.js#2: [SOCIETY] crystalarium.js loaded
+[17:30:20] [INFO] Loaded script startup_scripts:customMachines/crystalarium.js in 0.014 s
+[17:30:20] [INFO] customMachines/dehydrator.js#2: [SOCIETY] dehydrator.js loaded
+[17:30:20] [INFO] Loaded script startup_scripts:customMachines/dehydrator.js in 0.015 s
+[17:30:20] [INFO] customMachines/cheesePress.js#2: [SOCIETY] mayonnaiseMachine.js loaded
+[17:30:20] [INFO] Loaded script startup_scripts:customMachines/cheesePress.js in 0.006 s
+[17:30:20] [INFO] customMachines/prizeMachine.js#2: [SOCIETY] preservesJar.js loaded
+[17:30:20] [INFO] Loaded script startup_scripts:customMachines/prizeMachine.js in 0.011 s
+[17:30:20] [INFO] customMachines/espressoMachine.js#2: [SOCIETY] espressoMachine.js loaded
+[17:30:20] [INFO] Loaded script startup_scripts:customMachines/espressoMachine.js in 0.004 s
+[17:30:20] [INFO] customMachines/baitMaker.js#2: [SOCIETY] baitMaker.js loaded
+[17:30:20] [INFO] Loaded script startup_scripts:customMachines/baitMaker.js in 0.035 s
+[17:30:20] [INFO] customMachines/fishSmoker.js#2: [SOCIETY] fishSmoker.js loaded
+[17:30:20] [INFO] Loaded script startup_scripts:customMachines/fishSmoker.js in 0.008 s
+[17:30:20] [INFO] customMachines/ancientCask.js#2: [SOCIETY] ancientCask.js loaded
+[17:30:20] [INFO] Loaded script startup_scripts:customMachines/ancientCask.js in 0.009 s
+[17:30:20] [INFO] customMachines/tapper.js#2: [SOCIETY] tapper.js loaded
+[17:30:20] [INFO] Loaded script startup_scripts:customMachines/tapper.js in 0.012 s
+[17:30:20] [INFO] customMachines/fishPond.js#2: [SOCIETY] fishPond.js loaded
+[17:30:20] [INFO] Loaded script startup_scripts:customMachines/fishPond.js in 0.014 s
+[17:30:20] [INFO] customMachines/loom.js#2: [SOCIETY] loom.js loaded
+[17:30:20] [INFO] Loaded script startup_scripts:customMachines/loom.js in 0.012 s
+[17:30:20] [INFO] customMachines/deluxeWormFarm.js#2: [SOCIETY] deluxeWormFarm.js loaded
+[17:30:20] [INFO] Loaded script startup_scripts:customMachines/deluxeWormFarm.js in 0.006 s
+[17:30:20] [INFO] fishPondDefinitions.js#2: [SOCIETY] fishPondDefinitions.js loaded
+[17:30:21] [INFO] Loaded script startup_scripts:fishPondDefinitions.js in 0.046 s
+[17:30:21] [INFO] powerfulMachines/basicShippingBin.js#2: [SOCIETY] basicShippingBin.js loaded
+[17:30:21] [INFO] Loaded script startup_scripts:powerfulMachines/basicShippingBin.js in 0.003 s
+[17:30:21] [INFO] powerfulMachines/smartShippingBin.js#2: [SOCIETY] smartShippingBin.js loaded
+[17:30:21] [INFO] Loaded script startup_scripts:powerfulMachines/smartShippingBin.js in 0.002 s
+[17:30:21] [INFO] Loaded script startup_scripts:globalRemovedItems.js in 0.01 s
+[17:30:21] [INFO] Loaded script startup_scripts:globalExtractinatingRecipes.js in 0.001 s
+[17:30:21] [INFO] Loaded script startup_scripts:entityModification/modifyChicken.js in 0.001 s
+[17:30:21] [INFO] Loaded script startup_scripts:entityModification/modifyLongwings.js in 0.002 s
+[17:30:21] [INFO] Loaded script startup_scripts:globalFish.js in 0.016 s
+[17:30:21] [INFO] customMachines/coinLeaderboard.js#1: [SOCIETY] coinLeaderboard.js loaded
+[17:30:21] [INFO] Loaded script startup_scripts:customMachines/coinLeaderboard.js in 0.002 s
+[17:30:21] [INFO] customMachines/sparkstoneRecycler.js#1: [SOCIETY] sparkstoneRecycler.js loaded
+[17:30:21] [INFO] Loaded script startup_scripts:customMachines/sparkstoneRecycler.js in 0.003 s
+[17:30:21] [INFO] customMachines/manaClock.js#1: [SOCIETY] manaClock.js loaded
+[17:30:21] [INFO] Loaded script startup_scripts:customMachines/manaClock.js in 0.002 s
+[17:30:21] [INFO] customMachines/goldenClock.js#1: [SOCIETY] goldenClock.js loaded
+[17:30:21] [INFO] Loaded script startup_scripts:customMachines/goldenClock.js in 0.007 s
+[17:30:21] [INFO] Loaded script startup_scripts:globalArtisanMachineDefinitions.js in 0.005 s
+[17:30:21] [INFO] Loaded script startup_scripts:globalShippingBinHandlers.js in 0.018 s
+[17:30:21] [INFO] Loaded script startup_scripts:creativeTab.js in 0.001 s
+[17:30:21] [INFO] globalBlockEntityHandlers.js#8: Loaded Java class 'net.minecraft.world.level.block.state.properties.BooleanProperty'
+[17:30:21] [INFO] globalBlockEntityHandlers.js#12: Loaded Java class 'net.minecraft.world.level.block.state.properties.IntegerProperty'
+[17:30:21] [INFO] globalBlockEntityHandlers.js#16: Loaded Java class 'net.minecraft.world.level.block.state.properties.DirectionProperty'
+[17:30:21] [INFO] globalBlockEntityHandlers.js#922: Loaded Java class 'de.cadentem.quality_food.capability.LevelData'
+[17:30:21] [INFO] Loaded script startup_scripts:globalBlockEntityHandlers.js in 0.019 s
+[17:30:21] [INFO] Loaded script startup_scripts:_config.js in 0.0 s
+[17:30:21] [INFO] Loaded script startup_scripts:globalFurniturePlushies.js in 0.003 s
+[17:30:21] [INFO] husbandryDefinitions.js#1: [SOCIETY] husbandryDefinitions.js loaded
+[17:30:21] [INFO] Loaded script startup_scripts:husbandryDefinitions.js in 0.003 s
+[17:30:21] [INFO] powerfulMachines/qualityWasher.js#1: [SOCIETY] qualityWasher.js loaded
+[17:30:21] [INFO] Loaded script startup_scripts:powerfulMachines/qualityWasher.js in 0.002 s
+[17:30:21] [INFO] powerfulMachines/growthObelisk.js#1: [SOCIETY] growthObelisk.js loaded
+[17:30:21] [INFO] powerfulMachines/growthObelisk.js#3: Loaded Java class 'cool.bot.dewdropfarmland.utils.CropHandlerUtils'
+[17:30:21] [INFO] powerfulMachines/growthObelisk.js#4: Loaded Java class 'net.minecraft.util.RandomSource'
+[17:30:21] [INFO] Loaded script startup_scripts:powerfulMachines/growthObelisk.js in 0.008 s
+[17:30:21] [INFO] powerfulMachines/autoGrabber.js#1: [SOCIETY] autoGrabber.js loaded
+[17:30:21] [INFO] Loaded script startup_scripts:powerfulMachines/autoGrabber.js in 0.004 s
+[17:30:21] [INFO] powerfulMachines/juiceInserter.js#1: [SOCIETY] juiceInserter.js loaded
+[17:30:21] [INFO] Loaded script startup_scripts:powerfulMachines/juiceInserter.js in 0.002 s
+[17:30:21] [INFO] powerfulMachines/sprinklers.js#1: [SOCIETY] sprinklers.js loaded
+[17:30:21] [INFO] Loaded script startup_scripts:powerfulMachines/sprinklers.js in 0.002 s
+[17:30:21] [INFO] powerfulMachines/ribbitHut.js#1: [SOCIETY] ribbitHut.js loaded
+[17:30:21] [INFO] powerfulMachines/ribbitHut.js#3: Loaded Java class 'net.minecraft.world.level.block.Block'
+[17:30:21] [INFO] Loaded script startup_scripts:powerfulMachines/ribbitHut.js in 0.018 s
+[17:30:21] [INFO] powerfulMachines/artisanHopper.js#1: [SOCIETY] artisanHopper.js loaded
+[17:30:21] [INFO] Loaded script startup_scripts:powerfulMachines/artisanHopper.js in 0.009 s
+[17:30:21] [INFO] powerfulMachines/shippingBinMonitor.js#1: [SOCIETY] shippingBinMonitor.js loaded
+[17:30:21] [INFO] Loaded script startup_scripts:powerfulMachines/shippingBinMonitor.js in 0.004 s
+[17:30:21] [INFO] powerfulMachines/snowMelter.js#1: [SOCIETY] snowMelter.js loaded
+[17:30:21] [INFO] Loaded script startup_scripts:powerfulMachines/snowMelter.js in 0.002 s
+[17:30:21] [INFO] powerfulMachines/fishPondBasket.js#1: [SOCIETY] artisanHopper.js loaded
+[17:30:21] [INFO] Loaded script startup_scripts:powerfulMachines/fishPondBasket.js in 0.004 s
+[17:30:21] [INFO] powerfulMachines/autoWormFarm.js#1: [SOCIETY] autoWormFarm.js loaded
+[17:30:21] [INFO] Loaded script startup_scripts:powerfulMachines/autoWormFarm.js in 0.001 s
+[17:30:21] [INFO] powerfulMachines/feedingTrough.js#1: [SOCIETY] feedingTrough.js loaded
+[17:30:21] [INFO] Loaded script startup_scripts:powerfulMachines/feedingTrough.js in 0.009 s
+[17:30:21] [INFO] powerfulMachines/manaMilker.js#1: [SOCIETY] manaMilker.js loaded
+[17:30:21] [INFO] Loaded script startup_scripts:powerfulMachines/manaMilker.js in 0.003 s
+[17:30:21] [INFO] powerfulMachines/autoTapper.js#1: [SOCIETY] autoTapper.js loaded
+[17:30:21] [INFO] Loaded script startup_scripts:powerfulMachines/autoTapper.js in 0.002 s
+[17:30:21] [INFO] seasonsSupportStartup.js#1: Loaded Java class 'sereneseasons.api.season.SeasonHelper'
+[17:30:21] [INFO] seasonsSupportStartup.js#2: Loaded Java class 'sereneseasons.api.season.Season'
+[17:30:21] [INFO] Loaded script startup_scripts:seasonsSupportStartup.js in 0.003 s
+[17:30:21] [INFO] Loaded script startup_scripts:globalAnimalHandlers.js in 0.005 s
+[17:30:21] [INFO] Loaded script startup_scripts:skullCavernSleep.js in 0.001 s
+[17:30:21] [INFO] forgeEvents/netherFishingSkills.js#1: [SOCIETY] netherFishingSkills.js loaded
+[17:30:21] [INFO] Loaded script startup_scripts:forgeEvents/netherFishingSkills.js in 0.001 s
+[17:30:21] [INFO] forgeEvents/skullCavernChunkManager.js#1: [SOCIETY] skullCavernChunkManager.js loaded
+[17:30:21] [INFO] Loaded script startup_scripts:forgeEvents/skullCavernChunkManager.js in 0.001 s
+[17:30:21] [INFO] forgeEvents/fishingRodLeveling.js#1: [SOCIETY] fishingRodLeveling.js loaded
+[17:30:21] [INFO] Loaded script startup_scripts:forgeEvents/fishingRodLeveling.js in 0.001 s
+[17:30:21] [INFO] forgeEvents/nerfHero.js#1: [SOCIETY] nerfHero.js loaded
+[17:30:21] [INFO] forgeEvents/nerfHero.js#3: Loaded Java class 'net.minecraftforge.eventbus.api.Event'
+[17:30:21] [INFO] Loaded script startup_scripts:forgeEvents/nerfHero.js in 0.001 s
+[17:30:21] [INFO] registration/gnome.js#1: [SOCIETY] gnome.js loaded
+[17:30:21] [INFO] Loaded script startup_scripts:registration/gnome.js in 0.001 s
+[17:30:21] [INFO] Loaded script startup_scripts:registration/registerBlocks.js in 0.006 s
+[17:30:21] [INFO] Loaded script startup_scripts:registration/registerEntities.js in 0.0 s
+[17:30:21] [INFO] Loaded script startup_scripts:registration/berryBush.js in 0.0 s
+[17:30:21] [INFO] Loaded script startup_scripts:registration/registerAffixes.js in 0.0 s
+[17:30:21] [INFO] registration/plushieReRegister.js#1: [SOCIETY] plushieReRegister.js loaded
+[17:30:21] [INFO] Loaded script startup_scripts:registration/plushieReRegister.js in 0.005 s
+[17:30:21] [INFO] Loaded script startup_scripts:registration/modifyItems.js in 0.007 s
+[17:30:21] [INFO] registration/registerWhimsyBlocks.js#1: [WHIMSY_DECO] registerWhimsyBlocks.js loaded
+[17:30:21] [INFO] Loaded script startup_scripts:registration/registerWhimsyBlocks.js in 0.004 s
+[17:30:21] [INFO] registration/registerWeapons.js#1: [SOCIETY] registerWeapons.js loaded
+[17:30:21] [INFO] Loaded script startup_scripts:registration/registerWeapons.js in 0.001 s
+[17:30:21] [INFO] registration/registerFluids.js#1: [SOCIETY] registerFluids.js loaded
+[17:30:21] [INFO] Loaded script startup_scripts:registration/registerFluids.js in 0.001 s
+[17:30:21] [INFO] Loaded script startup_scripts:registration/registerWallpapers.js in 0.0 s
+[17:30:21] [INFO] Loaded script startup_scripts:registration/registerSounds.js in 0.0 s
+[17:30:21] [INFO] registration/registerItems.js#1: [SOCIETY] registerItems.js loaded
+[17:30:21] [INFO] Loaded script startup_scripts:registration/registerItems.js in 0.025 s
+[17:30:21] [INFO] Loaded script startup_scripts:registration/registerCrops.js in 0.009 s
+[17:30:21] [INFO] globalRegistry.js#2: Loaded Java class 'dev.ithundxr.createnumismatics.Numismatics'
+[17:30:21] [INFO] Loaded script startup_scripts:globalRegistry.js in 0.147 s
+[17:30:21] [INFO] Loaded 74/74 KubeJS startup scripts in 1.345 s with 0 errors and 0 warnings

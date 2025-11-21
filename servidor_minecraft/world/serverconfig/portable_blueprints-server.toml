@@ -1,0 +1,7 @@
+#Blacklist of block IDs ignored by the scanner and blueprints (example: ["minecraft:stone", "minecraft:dirt"] )
+blacklistBlocks = []
+#Set the MaxScannerBlockCount gamerule
+maxscannerblockcount = 30000
+#Enable maxScannerBlockCount server config
+enable_maxscannerblockcount = false
+
